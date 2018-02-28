@@ -1,3 +1,5 @@
+// Deep at the center of my being is an infinite well of love.
+
 package com.shiny.candles;
 
 import org.springframework.boot.SpringApplication;
